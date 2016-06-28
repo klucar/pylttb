@@ -1,0 +1,3 @@
+[submodule "lttb-py"]
+	path = lttb-py
+	url = https://github.com/devoxi/lttb-py.git
